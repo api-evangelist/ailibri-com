@@ -66,7 +66,7 @@
 
 Ailibri operates a Russian-language catalog of AI tools and services, offering free and paid neural network applications for text, images, video, code, and more. The site lists over 3,000 AI models across 70 categories, providing descriptions, pricing, and usage instructions in Russian. It serves developers, creators, and businesses seeking AI solutions, with sections for productivity, content generation, translation, and specialized tools like deepfake generators and code assistants.
 
-**Areas:** AI · Catalog · Russian · Tools · Services
+**Areas:** Artificial Intelligence · Catalog · Russian · Tools · Services
 
 ## Ailibri on APIs.io
 
@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Ailibri Com Domain Security](https://apis.io/security/ailibri-com/ailibri-com-domain-security/)
+- [Ailibri Domain Security](https://apis.io/security/ailibri-com/ailibri-com-domain-security/)
 
 ## Where to find this API
 
@@ -92,7 +92,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/ailibri-com/](https://apis.io/providers/ailibri-com/).
+**Kin Score 6.2** — minimal · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 8.5 |
+
+**Agent readiness 4.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | signal |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 3.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ailibri-com/](https://apis.io/providers/ailibri-com/).
 
 ## How this profile is made
 
